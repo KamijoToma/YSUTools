@@ -16,11 +16,11 @@
 
 ```
 PASSWORD # 账户密码
-YESCAPTCHA_KEY # YesCaptcha () API Key，用于识别认证系统的图形验证码
+YESCAPTCHA_KEY # YesCaptcha (https://yescaptcha.com/) API Key，用于识别认证系统的图形验证码
 USERNAME # 学号
 ```
 
-然后配合定时工具每隔一段时间启动即可，记得改一下通知方面的函数，好让它能真正通知到你！
+然后配合定时工具每隔一段时间启动 `Auth.py` 即可，记得改一下通知方面的函数，好让它能真正通知到你！
 
 还有还有，记得改一改活动过滤函数，过滤掉你不想报名的活动，比如小语种专属的图书馆书目标记！
 
