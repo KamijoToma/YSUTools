@@ -17,5 +17,5 @@
 ## 目前包含的小工具
 
 * FreeNixxerByYourself: 劳动实践课程抢课
-
+* YSUChargeMonitor: 充电桩空闲检测
 
