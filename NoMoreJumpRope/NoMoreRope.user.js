@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.1415926
 // @description  录制多优先级请求序列，循环发送并通过条件脚本控制优先级切换（返回1继续/0切换/−1停止）
-// @author       SkyRain
+// @author       DingDongJi, Claude Sonnet 4.6, et al.
 // @match        *://xsxk.ysu.edu.cn/*
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
